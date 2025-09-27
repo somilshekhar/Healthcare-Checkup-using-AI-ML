@@ -85,6 +85,7 @@ health-prediction/
 This app is for educational/testing purposes only.
 It is not medical advice. Consult a healthcare professional for medical concerns.
 
+## License
 ---
 #MIT License
 
